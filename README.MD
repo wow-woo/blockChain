@@ -2,14 +2,12 @@
 
 first look to typescript
 
----
-
+<br/>
 <br/>
 
 - ? : after word ? means it could be undefined.
 - & : after word ? means it could be undefined.
 - | :
-- & :
 
 <br/>
 
