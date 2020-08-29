@@ -1,18 +1,18 @@
 # TYPESCRIPT 👀
 
-## first look to typescript
+### first look to typescript
 
-## ? : after word ? means it could be undefined.
+### ? : after word ? means it could be undefined.
 
-## & : after word ? means it could be undefined.
+### & : after word ? means it could be undefined.
 
-## | :
+### | :
 
-## & :
+### & :
 
 <br/>
 
-### interface keyword statement
+## interface keyword statement
 
 1.  create a schema class for object.
     create sort of class to define types for object
@@ -28,7 +28,7 @@
 <br/>
 <br/>
 
-### plus
+## plus
 
 - what is public keyword and private keyword in class
 - what is static in class this binding? classes/ methods
@@ -40,6 +40,6 @@
   <br/>
   const mixin: (string | number)[] = ['haha' ,121 ,445 , 'col']
 
-### Error
+## Error
 
 - tried async/await implement
