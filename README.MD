@@ -1,14 +1,12 @@
 # TYPESCRIPT 👀
 
-### first look to typescript
+first look to typescript
+<br/>
 
-### ? : after word ? means it could be undefined.
-
-### & : after word ? means it could be undefined.
-
-### | :
-
-### & :
+? : after word ? means it could be undefined.
+& : after word ? means it could be undefined.
+| :
+& :
 
 <br/>
 
